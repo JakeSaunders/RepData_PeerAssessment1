@@ -183,3 +183,5 @@ ggplot(
 ) + geom_line() + facet_wrap(~Weekday.end, ncol = 1)
 
 ```
+
+End
